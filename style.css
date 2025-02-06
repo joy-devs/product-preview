@@ -20,6 +20,7 @@ body{
 }
 .product-card{
     background-color: white;
+    display: inline;
     color: gray;
     text-align: center;
     padding: 40px;
@@ -27,5 +28,9 @@ body{
     height: 500px;
 }
 .product-img{
+    width: 250px;
+    height: 350px;
+}
+.btn{
     
 }
