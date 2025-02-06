@@ -15,4 +15,17 @@ body{
 .container{
     display: flex;
     justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.product-card{
+    background-color: white;
+    color: gray;
+    text-align: center;
+    padding: 40px;
+    width: 500px;
+    height: 500px;
+}
+.product-img{
+    
 }
